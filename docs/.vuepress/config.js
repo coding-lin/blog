@@ -1,6 +1,6 @@
 module.exports = {
-  title: "我的博客",
-  // description: "XXX",
+  title: "Blog",
+  description: "Day Day No Bug",
   theme: "reco",
   base: "/blog/",
   locales: {
@@ -81,5 +81,6 @@ module.exports = {
         },
       },
     ],
+    ["vuepress-plugin-code-copy", true],
   ],
 };

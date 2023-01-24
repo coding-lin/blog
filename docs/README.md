@@ -1,7 +1,7 @@
 ---
 home: true
-heroImage: "/avatar.jpg"
-heroText: codinglin
+heroImage: "/zsy.jpg"
+# heroText: "Day Day No Bug"
 heroImageStyle:
   {
     width: "230x",

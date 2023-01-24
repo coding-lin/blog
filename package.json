@@ -16,5 +16,8 @@
     "vuepress-plugin-helper-live2d": "^1.0.2",
     "vuepress-plugin-sakura": "^1.2.1",
     "vuepress-theme-reco": "^1.6.16"
+  },
+  "dependencies": {
+    "vuepress-plugin-code-copy": "^1.0.6"
   }
 }
