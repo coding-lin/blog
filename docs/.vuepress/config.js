@@ -73,7 +73,7 @@ module.exports = {
             vOffset: 0, //  垂直偏移(default: 0)
           },
           mobile: {
-            show: true, // 是否在移动设备上显示(default: false)
+            show: false, // 是否在移动设备上显示(default: false)
           },
           react: {
             opacity: 0.8, // 模型透明度(default: 0.8)
