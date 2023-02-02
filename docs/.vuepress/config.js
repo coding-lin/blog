@@ -13,14 +13,38 @@ module.exports = {
     authorAvatar: "/avatar.jpg",
     type: "blog",
     nav: [
-      { text: "首页", link: "/" },
+      { text: "首页", link: "/", icon: "reco-home" },
+      { text: "时间轴", link: "/timeline/", icon: "reco-date" },
+      {
+        text: "bilibili",
+        link: "https://www.bilibili.com",
+        icon: "reco-bilibili",
+      },
       {
         text: "其他",
         items: [
-          { text: "掘金", link: "https://juejin.cn/user/726107228492253" },
-          { text: "Github", link: "https://github.com/coding-lin" },
-          { text: "力扣", link: "https://leetcode.cn/u/codinglin/" },
+          {
+            text: "掘金",
+            link: "https://juejin.cn/user/726107228492253",
+            icon: "reco-juejin",
+          },
+          {
+            text: "Github",
+            link: "https://github.com/coding-lin",
+            icon: "reco-github",
+          },
+          {
+            text: "Gitee",
+            link: "https://gitee.com/codinglin",
+            icon: "reco-mayun",
+          },
+          {
+            text: "力扣",
+            link: "https://leetcode.cn/u/codinglin/",
+            icon: "reco-coding",
+          },
         ],
+        icon: "reco-other",
       },
     ],
     blogConfig: {
@@ -29,8 +53,8 @@ module.exports = {
         text: "分类", // 默认文案 “分类”
       },
       tag: {
-        location: 4, // 在导航栏菜单中所占的位置，默认4
-        text: "Tag", // 默认文案 “标签”
+        location: 3, // 在导航栏菜单中所占的位置，默认4
+        text: "标签", // 默认文案 “标签”
       },
     },
   },
