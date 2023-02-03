@@ -16,11 +16,6 @@ module.exports = {
       { text: "首页", link: "/", icon: "reco-home" },
       { text: "时间轴", link: "/timeline/", icon: "reco-date" },
       {
-        text: "bilibili",
-        link: "https://www.bilibili.com",
-        icon: "reco-bilibili",
-      },
-      {
         text: "其他",
         items: [
           {
@@ -42,6 +37,11 @@ module.exports = {
             text: "力扣",
             link: "https://leetcode.cn/u/codinglin/",
             icon: "reco-coding",
+          },
+          {
+            text: "bilibili",
+            link: "https://www.bilibili.com",
+            icon: "reco-bilibili",
           },
         ],
         icon: "reco-other",
