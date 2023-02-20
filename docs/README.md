@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: "/zsy.jpg"
+heroImage: "https://img-blog.csdnimg.cn/d6fa1934f541462a829c4503bcd44f06.jpeg"
 # heroText: "Day Day No Bug"
 heroImageStyle:
   {

@@ -9,8 +9,9 @@ module.exports = {
     },
   },
   themeConfig: {
-    logo: "/avatar.jpg",
-    authorAvatar: "/avatar.jpg",
+    logo: "https://img-blog.csdnimg.cn/d6fa1934f541462a829c4503bcd44f06.jpeg",
+    authorAvatar:
+      "https://img-blog.csdnimg.cn/d6fa1934f541462a829c4503bcd44f06.jpeg",
     type: "blog",
     nav: [
       { text: "首页", link: "/", icon: "reco-home" },
