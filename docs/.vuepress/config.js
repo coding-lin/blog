@@ -9,9 +9,9 @@ module.exports = {
     },
   },
   themeConfig: {
-    logo: "https://foruda.gitee.com/avatar/1676867730159733180/10664590_codinglin_1676867730.png!avatar200",
+    logo: "https://foruda.gitee.com/avatar/1679374510594837876/10664590_codinglin_1679374510.png!avatar200",
     authorAvatar:
-      "https://foruda.gitee.com/avatar/1676867730159733180/10664590_codinglin_1676867730.png!avatar200",
+      "https://foruda.gitee.com/avatar/1679374510594837876/10664590_codinglin_1679374510.png!avatar200",
     type: "blog",
     nav: [
       { text: "首页", link: "/", icon: "reco-home" },
