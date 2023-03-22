@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: "https://foruda.gitee.com/avatar/1679374510594837876/10664590_codinglin_1679374510.png!avatar200"
+heroImage: "https://img01.anzhiy.cn/useruploads/113/2023/03/22/641aefb80e38e.gif"
 # heroText: "Day Day No Bug"
 heroImageStyle:
   {
