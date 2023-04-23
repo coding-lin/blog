@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: "https://img01.anzhiy.cn/useruploads/113/2023/03/22/641aefb80e38e.gif"
+heroImage: "https://img01.anzhiy.cn/useruploads/113/2023/04/23/6444b7bfb2406.jpg"
 # heroText: "Day Day No Bug"
 heroImageStyle:
   {

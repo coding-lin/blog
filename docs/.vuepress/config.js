@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Blog",
+  title: "",
   description: "Day Day No Bug",
   theme: "reco",
   base: "/blog/",
@@ -9,9 +9,9 @@ module.exports = {
     },
   },
   themeConfig: {
-    logo: "https://foruda.gitee.com/avatar/1679374510594837876/10664590_codinglin_1679374510.png!avatar200",
+    logo: "https://img01.anzhiy.cn/useruploads/113/2023/04/23/6444b7bfb2406.jpg",
     authorAvatar:
-      "https://foruda.gitee.com/avatar/1679374510594837876/10664590_codinglin_1679374510.png!avatar200",
+      "https://img01.anzhiy.cn/useruploads/113/2023/04/23/6444b7bfb2406.jpg",
     type: "blog",
     nav: [
       { text: "首页", link: "/", icon: "reco-home" },
