@@ -1,6 +1,6 @@
 module.exports = {
   title: "",
-  description: "Day Day No Bug",
+  description: "Welcome to your visit",
   theme: "reco",
   base: "/blog/",
   locales: {

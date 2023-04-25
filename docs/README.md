@@ -1,7 +1,6 @@
 ---
 home: true
 heroImage: "https://img01.anzhiy.cn/useruploads/113/2023/04/23/6444b7bfb2406.jpg"
-# heroText: "Day Day No Bug"
 heroImageStyle:
   {
     width: "230x",
