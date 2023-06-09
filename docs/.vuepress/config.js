@@ -9,9 +9,9 @@ module.exports = {
     },
   },
   themeConfig: {
-    logo: "https://img01.anzhiy.cn/useruploads/113/2023/04/23/6444b7bfb2406.jpg",
+    logo: "https://img01.anheyu.com/useruploads/113/2023/04/23/6444b7bfb2406.jpg",
     authorAvatar:
-      "https://img01.anzhiy.cn/useruploads/113/2023/04/23/6444b7bfb2406.jpg",
+      "https://img01.anheyu.com/useruploads/113/2023/04/23/6444b7bfb2406.jpg",
     type: "blog",
     nav: [
       { text: "首页", link: "/", icon: "reco-home" },
